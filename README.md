@@ -17,13 +17,13 @@ When pulling the data for June and December these were put into a list and conve
 When comparing these two months there are several differences that can be observed. 
   - More data is collected in June rather than December.
   - The average temperature is 75 in June, which is warmer by close to 4 degrees than in December
-  - The minimum temperatures are a lot more spread apart, with it being 64 in June and 56 in December. 
+  - The minimum temperatures are a lot more spread apart, with it being 64 in June and 56 in December. This may cause some issues of traffic in December. 
   - The standard deviation is .5 greater in December than in June, meaning that the temperatures in December would flucuate more than in June. 
   - The mean for both June and December are fairly similar to its 50th percentile, meaning that even though the temperatures would flucuate they remain consistent. 
 
 ## Summary
 
-With the temperatures being very nice for both June and December, it would appear that being cold would not be a problem when opening a surf shop that serves ice cream all year round. At these temps, ice cream would always be enjoyable. 
+With the temperatures being very nice for both June and December, it would appear that being cold, for most days, would not be a problem when opening a surf shop that serves ice cream all year round. December would be expected to have somewhat less traffic due to how low the temperatures can get this month, however, at the average temps, ice cream would always be enjoyable. 
 
 However, weather is not just the temperuature. There are many factors that could effect the surf shop's profitability. Addtional analysis could be done in the following areas when it comes to the weather.
  - Precipitation
